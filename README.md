@@ -1,1 +1,1 @@
-# Some attempts for exercises on CSAPP
+# Attempts made to solve problemss on CSAPP
